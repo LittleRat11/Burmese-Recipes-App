@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding: 15px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 8px;
+    margin-bottom: 8rem;
+    margin-top: 20px;
+    text-align: center;
+    color: #6468C4;
+}
+
+.header {
+    font-size: 25px;
+    letter-spacing: 10px;
+    margin-bottom: 2rem;
+    color: #6468C4;
+}
+
+.description {
+    letter-spacing: 10px;
+    line-height: 2em;
+    font-size: 15px;
+    color: #6468C4;
+    margin-bottom: 2rem;
+}
+
+.searchBtn {
+    background-color: #B34B4C;
+    color: white;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+}
+
+.chef-img {
+    width: 350px;
+    height: 350px;
+    margin-left: 4rem;
+    background: transparent;
+}
